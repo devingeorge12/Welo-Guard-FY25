@@ -3,7 +3,7 @@
 // of Swift required to build this package.
 // ----------------------------------------------------
 //
-//  Created by Jesse Squires
+//  Created by Jennifer Hynes
 //  https://www.jessesquires.com
 //
 //  Documentation
